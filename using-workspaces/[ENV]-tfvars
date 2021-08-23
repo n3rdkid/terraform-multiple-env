@@ -1,0 +1,5 @@
+
+aws_elastic_beanstalk_application_description= "Development environemnt test"
+env="dev"
+aws_elastic_beanstalk_service_name="dev"
+
